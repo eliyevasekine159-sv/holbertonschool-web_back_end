@@ -1,4 +1,1 @@
--- Inserts a document in the collection school.
--- The document must have one attribute: name="Holberton School".
--- The database name will be passed as an argument of mongo command.
 db.school.insert({ name: "Holberton School" })
