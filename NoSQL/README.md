@@ -1,1 +1,1 @@
-# NoSQL - Databases
+# NoSQL Project - Holberton School

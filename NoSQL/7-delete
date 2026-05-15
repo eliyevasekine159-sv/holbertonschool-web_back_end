@@ -1,2 +1,2 @@
-// delete documents by match
+// Delete by match
 db.school.remove({ "name": "Holberton school" })
