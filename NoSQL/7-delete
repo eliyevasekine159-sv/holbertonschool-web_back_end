@@ -1,2 +1,2 @@
-// Delete by match
+// my comment
 db.school.remove({ "name": "Holberton school" })
